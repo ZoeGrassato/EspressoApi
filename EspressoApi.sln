@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EspressoApi", "EspressoApi\EspressoApi.csproj", "{7FBF7B6A-704C-4CF3-BD50-B11682114819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBF7B6A-704C-4CF3-BD50-B11682114819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF7B6A-704C-4CF3-BD50-B11682114819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF7B6A-704C-4CF3-BD50-B11682114819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF7B6A-704C-4CF3-BD50-B11682114819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F56FE4-D830-4098-8044-85BC8206FE57}
+	EndGlobalSection
+EndGlobal
